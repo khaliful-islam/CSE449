@@ -14,9 +14,9 @@ Group Number:
 19
 
 Group Members:
-17201060 Name Md Zahid Hasan
-17301114 Name Md.Khaliful Islam
-18301275 Name Abdul Awal
-20301157 Name Md.Adnan Karim
-22166043 Name Md.Shammyo Sikder
-ST: Abid Hossain; RA: Sania Azhmee 
+17201060 Name Md. Zahid Hasan
+17301114 Name Md. Khaliful Islam
+18301275 Name Md. Abdul Awal
+20301157 Name Md. Adnan Karim
+22166043 Name Md. Shammyo Sikder
+ST: Abid Hossain; RA: Sania Azhmee Bhuiyan
