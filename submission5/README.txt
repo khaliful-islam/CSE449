@@ -1,17 +1,17 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/read/dmhzbhfvzrvb
 
 Unlisted YouTube video:
-http://youtube....
+https://www.youtube.com/watch?v=mTaXSFmKqUY&list=PLg4rwQkgw-IQQvZ-6uPT_BoY6o7YI_BjR&index=5
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Synergistic Fusion of Big Data Analytics and Advanced Techniques: A Pathway to Fortifying Cybersecurity in Distributed Control Systems
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+Used the overleaf file
 
 Group Number:
-0
+19
 
 Group Members:
 12345678 Name A
