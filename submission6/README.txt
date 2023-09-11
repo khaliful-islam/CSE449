@@ -5,23 +5,24 @@ Unlisted YouTube video:
 https://www.youtube.com/watch?v=mTaXSFmKqUY&list=PLg4rwQkgw-IQQvZ-6uPT_BoY6o7YI_BjR&index=5
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+N/A
 
 Paper title:
 Synergistic Fusion of Big Data Analytics and Advanced Techniques: A Pathway to Fortifying Cybersecurity in Distributed Control Systems
+
 Paper presentation (anyone can view without login):
 Used overleaf for the presentation
+
 Paper submission date (to workshop/conference):
-25 October 1999
+N/A
 
 Paper submission ID: (received) from conference/workshop
-1341234
+N/A
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
-
+N/A
 Conference URL:
-http://confsite/...
+N/A
 
 Group Number:
 19
